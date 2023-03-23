@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "equateIRT"]
+	path = equateIRT
+	url = https://github.com/cran/equateIRT
+	shallow = true
+	registered = true
+[submodule "equateMultiple"]
+	path = equateMultiple
+	url = https://github.com/cran/equateMultiple
+	shallow = true
+	registered = true
+[submodule "fsia"]
+	path = fsia
+	url = https://github.com/cran/fsia
+	shallow = true
+	registered = true
